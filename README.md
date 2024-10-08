@@ -2,6 +2,12 @@
 
 **JAMB Score Prediction Using Machine Learning**
 
+![image](https://github.com/user-attachments/assets/7a23099f-92e5-49e0-9388-b58c0f834aaf)
+
+
+
+
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
