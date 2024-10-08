@@ -2,10 +2,7 @@
 
 **JAMB Score Prediction Using Machine Learning**
 
-![image](https://github.com/user-attachments/assets/7a23099f-92e5-49e0-9388-b58c0f834aaf)
-
-
-
+![image](https://github.com/user-attachments/assets/67f7f39f-254a-4fec-8b62-5827878c9acf)
 
 
 ## Table of Contents
@@ -18,6 +15,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Demo](#demo)
 
 ## Project Overview
 
@@ -86,6 +84,11 @@ The project includes a pre-trained `.pkl` model which takes the student's grades
   These grades are mapped from the Nigerian grading system (A1, B2, etc.) to numerical values.
 
 - **Output**: Predicted JAMB score.
+
+## Demo
+
+You can access the live demo of the app here:  
+[**JAMB Score Prediction App**](https://jambpredict.streamlit.app/)
 
 ## Contributing
 
